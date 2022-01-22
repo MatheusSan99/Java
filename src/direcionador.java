@@ -3,7 +3,8 @@ public class direcionador {
 static Scanner Leitor = new Scanner(System.in);
 	public static void main(String[] args) {
 		
-System.out.printf("Digite um número para ver sua tabuada até o 10: ");
+
+		System.out.printf("Digite um número para ver sua tabuada até o 10: ");
 int a = Leitor.nextInt();
 
 
