@@ -9,6 +9,7 @@ public class Exercicio003 {
 	int maior = 0;
 	int media = 0;
 	do {
+		
 		System.out.println("Digite a " + cont + "° nota: ");
 		nota = scan.nextInt();
 		media = media+nota;

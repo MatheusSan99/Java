@@ -3,7 +3,8 @@ import java.util.Scanner;
 
 public class Desafio002Dio
 
-{		public static void main(String[] args) 
+{		
+	public static void main(String[] args) 
 		throws IOException {
 	Scanner leitor = new Scanner(System.in);
 	    	int N = leitor.nextInt();

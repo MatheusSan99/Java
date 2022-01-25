@@ -15,6 +15,7 @@ public class Exercicio005 {
 	
 	System.out.println(qnt + "x" + num + "=" + (qnt*num));
 
+	
 	}
 
 }

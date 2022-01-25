@@ -8,7 +8,6 @@ public class ExercicioWhile {
 		System.out.println("Digite um número entre 0 e 10: ");
 		nota = scan.nextInt();
 		
-		
 	}
 	while(nota < 0 | nota >10) {
 		System.out.println("Digite um valor válido:");

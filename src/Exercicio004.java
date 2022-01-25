@@ -24,6 +24,7 @@ public class Exercicio004 {
 	} while (count < qnt);
 System.out.println("Você tem:" + npar + " números pares.");
 System.out.println("Você tem:" + nimp + " números impares.");
+	
 	}
 
 }

@@ -8,6 +8,7 @@ public class Desafio003Dio {
 	int L = sc.nextInt();
 	System.out.println("Digite a linha da coluna: ");
 	int C = sc.nextInt();
+	
 				
 				
 					if (((++L+C)% 2 )==0)

@@ -12,7 +12,6 @@ public class Exercicio006 {
 	for (int count = fatorial; count >= 1; count--)
 	
 	
-	
 	multiplicador = multiplicador * count;
 
 	

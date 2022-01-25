@@ -6,6 +6,7 @@ public static void main(String[] args) {
 	int count = 0;
 	int tabuada = 0;
 	
+	
 	System.out.println("Digite um número entre 1 e 10 para ver sua tabuada:");
 	tabuada = scan.nextInt();
 	do {

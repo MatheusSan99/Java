@@ -8,7 +8,6 @@ public class Prova {
             ++count;
             num += count;
         }
-        System.out.println(num);
-        
+        System.out.println(num);   
 	}
 }
