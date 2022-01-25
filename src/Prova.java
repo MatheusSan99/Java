@@ -9,5 +9,6 @@ public class Prova {
             num += count;
         }
         System.out.println(num);
+        
 	}
 }

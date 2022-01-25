@@ -19,7 +19,7 @@ public class Exercicio004 {
 		if (valor % 2 == 0) npar++;
 		else
 			nimp++;
-		
+
 	
 	} while (count < qnt);
 System.out.println("Você tem:" + npar + " números pares.");

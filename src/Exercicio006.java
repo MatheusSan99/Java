@@ -16,7 +16,6 @@ public class Exercicio006 {
 	multiplicador = multiplicador * count;
 
 	
-
 	System.out.println(multiplicador);
 	}
 }

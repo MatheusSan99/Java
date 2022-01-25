@@ -22,6 +22,5 @@ public class Exercicio003 {
 	System.out.println("A maior nota foi: " + maior);
 	System.out.println("A média dos números é:" + (media/cont));
 	
-	
 }
 }
